@@ -1,0 +1,22 @@
+{
+  "name": "parse-templates",
+  "version": "0.0.1",
+  "authors": [
+    "Todorescu Tudor"
+  ],
+  "description": "-",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "parse",
+    "templates"
+  ],
+  "license": "MIT",
+  "homepage": "-",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}

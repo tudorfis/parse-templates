@@ -4,7 +4,7 @@
 if (process.argv.length == 2) {
     console.log(
         "\n Please enter the template id, example: \n" +
-        "'$ node parse-template wt_57787' \n" +
+        "'$ node parse-template 57787' \n" +
         "----------------------------------"
     );
 } else {
